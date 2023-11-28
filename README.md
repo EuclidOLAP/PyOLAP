@@ -1,1 +1,1 @@
-# PyOLAP
+# Python OLAP
